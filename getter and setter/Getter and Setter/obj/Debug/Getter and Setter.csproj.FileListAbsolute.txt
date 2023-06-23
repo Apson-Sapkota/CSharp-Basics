@@ -1,0 +1,8 @@
+D:\C#\Getter and Setter\Getter and Setter\obj\Debug\Getter and Setter.csproj.AssemblyReference.cache
+D:\C#\Getter and Setter\Getter and Setter\obj\Debug\Getter and Setter.csproj.SuggestedBindingRedirects.cache
+D:\C#\Getter and Setter\Getter and Setter\obj\Debug\Getter and Setter.csproj.CoreCompileInputs.cache
+D:\C#\Getter and Setter\Getter and Setter\bin\Debug\Getter and Setter.exe.config
+D:\C#\Getter and Setter\Getter and Setter\bin\Debug\Getter and Setter.exe
+D:\C#\Getter and Setter\Getter and Setter\bin\Debug\Getter and Setter.pdb
+D:\C#\Getter and Setter\Getter and Setter\obj\Debug\Getter and Setter.exe
+D:\C#\Getter and Setter\Getter and Setter\obj\Debug\Getter and Setter.pdb
